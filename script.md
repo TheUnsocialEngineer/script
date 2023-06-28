@@ -23,3 +23,15 @@
 **Interviewer**: You describe what you do as ethical hacking but invading peoples privacy doesnt seem very ethical to me.
 
 **Garry**: Most people would probably agree with you on that but when it comes to hacking ethical just means we are the good guys, we are hacking to protect and to expose those with nefarious goals and not for our own illegitimate gains
+
+**Interviewer**: so lets say someone is using a certain username to carry out a cyber attack you could take that and then start unwrapping who that criminal is?
+
+**Garry**: exactly. in fact in one case i dealt with we had a low level threat actor using hijacked youtube channels to distribute malware, for a few frames in one of the videos the username of their computer was visible and it just happened to be their full name, using that we were able to trace it back as far as what primary and secondary schools they had gone to.
+
+**Interviewer**: so from one name you were able to find exactly who it was?
+
+**Garry**: yes
+
+**Interviewer**: that's scary
+
+**Garry**: that's life
