@@ -35,3 +35,4 @@
 **Interviewer**: that's scary
 
 **Garry**: that's life
+<span style="color:blue">some *blue* text</span>.
