@@ -4,11 +4,9 @@
 
 **Garry**: My name is Garry Newburg *pauses for effect* and I am a hacker
 
-
 **Interviewer**: What do you mean when you say your are a hacker?
 
 **Garry**: I specialise in OSINT to track down peoples data and information online
-
 
 **Interviewer**: What is OSINT?
 
